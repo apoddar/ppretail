@@ -1,0 +1,4 @@
+C:\Users\apoddar\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\PPRetail\bin\Debug\PPRetail.dll
+C:\Users\apoddar\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\PPRetail\bin\Debug\PPRetail.pdb
+C:\Users\apoddar\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\PPRetail\obj\Debug\PPRetail.dll
+C:\Users\apoddar\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\PPRetail\obj\Debug\PPRetail.pdb
